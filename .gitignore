@@ -1,0 +1,13 @@
+.DS_Store
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node 
