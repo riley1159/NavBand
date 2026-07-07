@@ -1,10 +1,3 @@
-//
-//  NavBandUITestsLaunchTests.swift
-//  NavBandUITests
-//
-//  Created by Jason Brock on 2025-03-30.
-//
-
 import XCTest
 
 final class NavBandUITestsLaunchTests: XCTestCase {
