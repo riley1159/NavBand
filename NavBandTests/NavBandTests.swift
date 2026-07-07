@@ -1,21 +1,14 @@
-//
-//  NavBandTests.swift
-//  NavBandTests
-//
-//  Created by Jason Brock on 2025-03-30.
-//
-
 import XCTest
 @testable import NavBand
 
 final class NavBandTests: XCTestCase {
 
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+        // Put setup code here. 
     }
 
     override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+        // Put teardown code here. 
     }
 
     func testExample() throws {
