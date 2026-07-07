@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  NavBand
-//
-//  Created by Jason Brock on 2025-03-30.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
